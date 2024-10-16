@@ -4,7 +4,7 @@
 **L'adresse MAC source:** 00 1a 73 24 44 89 08 00  
 **L'adresse MAC destinnation:** 00 12 17 41 c2 c7  
 **L'EtherType:**  
-**Le contenu de l'en-tête IP, soit:**  
+### Le contenu de l'en-tête IP, soit:  
 **La version du protocole:**  
 **L'IHL:**  
 **Le service:**  
